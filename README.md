@@ -8,5 +8,4 @@ Este código analiza la siguiente información. Si tienes un dataframe con la si
 |  ...       | ...    | ...        |  ...         |    ...           |
 
 En el cual se tiene un ID como
-
-´Expediente´
+´´´ Expediente ´´´
