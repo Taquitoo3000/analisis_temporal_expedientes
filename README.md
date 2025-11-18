@@ -1,5 +1,5 @@
 # Análisis Temporal de los Tiempos de Conclusión de Expedientes
-Este código analiza la siguiente información. Si tienes un dataframe con la siguiente estructura en los registros:
+Este código analiza la siguiente información desde una base de datos en *Access* usando `pyodbc sql server`. Si tienes un dataframe con la siguiente estructura en los registros:
 | Expediente |  Zona  | Conclusión | Fecha_Inicio | Fecha_Conclusion |
 |:----------:|:-------|:-----------|:-------------|:-----------------|
 |    1011    | zona A | En trámite |  10/11/2022  |                  |
