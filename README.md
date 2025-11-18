@@ -8,8 +8,7 @@ Este código analiza la siguiente información. Si tienes un dataframe con la si
 |  ...       | ...    | ...        |  ...         |    ...           |
 
 En el cual se tiene un ID como `Expediente`. distintos tipos de Conclusión en los cuales puede terminar un expediente o en su defecto, estar aun sin concluir. Al inicio del código se establecen las condiciones iniciales
-```
-python
+```python
 sub = 'A'
 conclusion = 'admis'
 año_i = 2020
