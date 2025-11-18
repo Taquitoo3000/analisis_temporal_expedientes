@@ -7,4 +7,4 @@ Este código analiza la siguiente información. Si tienes un dataframe con la si
 |    1408    | zona C | Sometido   |  11/11/2022  |    01/01/2023    |
 |  ...       | ...    | ...        |  ...         |    ...           |
 
-En el cual se tiene un ID como ´´Expediente´´
+En el cual se tiene un ID como ´´´´Expediente´´´´
