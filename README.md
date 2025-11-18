@@ -7,6 +7,15 @@ Este código analiza la siguiente información. Si tienes un dataframe con la si
 |    1408    | zona C | Sometido   |  11/11/2022  |    01/01/2023    |
 |  ...       | ...    | ...        |  ...         |    ...           |
 
-En el cual se tiene un ID como `Expediente`. distintos tipos de Conclusión en los cuales puede terminar un expediente o en su defecto, estar aun sin concluir.
+En el cual se tiene un ID como `Expediente`. distintos tipos de Conclusión en los cuales puede terminar un expediente o en su defecto, estar aun sin concluir. Al inicio del código se establecen las condiciones iniciales
+```
+python
+sub = 'A'
+conclusion = 'admis'
+año_i = 2020
+año_f = 2025
+```
 Se realizan los siguientes análisis
-  1. *Distribución Temporal*
+  1. **Gráfica de Valores de Tendencia Central**: Gráficas con de la mediana/media/moda segun tus necesidades en distintos años
+  2. 
+  3. **Distribución Temporal**: Densidad de expedientes concluidos con respecto al tiempo transcurrido hasta su conclusión
